@@ -1,0 +1,17 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+.banner{
+    background-image: url("banner/im3.jpg");
+    padding: 210px;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.ban-css{
+    height:100px;
+    width:20px;
+
+}
+.skill-padding{
+    padding: 75px;
+}
